@@ -1,6 +1,5 @@
-# Global Weather
-
 <div align="center">
+# Global Weather
 A simple weather application that displays the current weather conditions for various cities globally by utilizing the [Open Weather API](https://openweathermap.org/api).
 </div>
 
