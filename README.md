@@ -24,7 +24,6 @@ cd weather-app
 2. Enter the name of the city you want to check the weather for in the search bar.
 3. View the current weather conditions for the selected city.
 
-
 ### Technologies Used
 - HTML
 - CSS
